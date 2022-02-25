@@ -1,4 +1,5 @@
-# Git cheat sheet
+# Git cheat sheet 
+
 
 >git init : Turn Directory into git repository
 
@@ -85,3 +86,5 @@
 > git checkout **commitid** : Travel to History to any commit
 
 > git switch **-** : Head again on master (undo the Head position) 
+
+```Note : Text in Bold is Editable```
