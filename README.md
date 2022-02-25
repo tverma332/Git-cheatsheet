@@ -1,5 +1,6 @@
 # Git cheat sheet 
 
+```Note : Text in Bold is Editable```
 
 >git init : Turn Directory into git repository
 
@@ -87,4 +88,3 @@
 
 > git switch **-** : Head again on master (undo the Head position) 
 
-```Note : Text in Bold is Editable```
