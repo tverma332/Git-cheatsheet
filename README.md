@@ -88,3 +88,14 @@
 
 > git switch **-** : Head again on master (undo the Head position) 
 
+>git switch -c **branchname** : Create branch when you made commit in previous snapshot
+
+> git revert **commitid** : Undo the changes of any commit you want
+
+> git revert -n **commitid** : Explicitly commit the revert changes
+
+> git revert --abort : Abort the revert changes
+
+> git reset --soft **commitid** : Delete commits but not file
+
+> git reset --hard **commitid** : Delete commit as well as files
