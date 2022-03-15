@@ -28,7 +28,7 @@
 
 > git config --global alias.**st** **status** : git alias
 
-> git congig --global --unset alias.**st** : To remove/unset alias
+> git config --global --unset alias.**st** : To remove/unset alias
 
 > git branch : Total branch with name
 
