@@ -18,7 +18,7 @@
 
 >touch .gitignore : create .gitignore file, add those file in it that you don't want to be tracked by git.
 
-> git rm --cached **file** : To untrack tracked file
+> git rm --cached **file** : To untrack the tracked file
 
 >git restore --staged **file** : To unstage staged file
 
