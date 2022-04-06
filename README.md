@@ -20,7 +20,7 @@
 
 > git rm --cached **file** : To untrack the tracked file
 
->git restore --staged **file** : To unstage staged file
+>git restore --staged **file** : To unstage the staged file
 
 > git checkout -- **file** : This command takes your file to the last version means it undo all the modifications
 
