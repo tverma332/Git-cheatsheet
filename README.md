@@ -10,7 +10,7 @@
 
 > git add  &nbsp;**.**&nbsp;: All the files in current working directory to stage
 
-> git commit -m "**message**" : It will commit all staged files to local repository ( -a for automatic staging)
+> git commit -m "**message**" : It will commit all staged files to local repository ( -a for automatic staging )
 
 > git log : You can see all the commits/version of your git project. (--oneline for oneline view)
 
